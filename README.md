@@ -1,5 +1,7 @@
-## Hi there 👋
-
+### QA Portfolio | Under Construction
+##### This repository will showcase my software testing projects, including manual test documentation and future automation scripts.
+---
+*Currently a Software QA student at John Bryce*
 <!--
 **Ofek-Katz/Ofek-Katz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
