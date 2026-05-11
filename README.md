@@ -1,5 +1,5 @@
 ### QA Portfolio | Under Construction
-##### This repository will showcase my software testing projects, including manual test documentation and future automation scripts.
+##### This repository will showcase my software testing projects, including manual test documentation and future automation scripts
 ---
 *Currently a Software QA student at John Bryce* 
 <!--
