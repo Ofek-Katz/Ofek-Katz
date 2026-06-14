@@ -1,7 +1,18 @@
-### QA Portfolio | Under Construction
-##### This repository will showcase my software testing projects, including manual test documentation and future automation scripts
----
-*Currently a Software QA student at John Bryce* 
+## Ofek Katz | QA Portfolio
+### This repository documents my professional projects, focusing on software quality assessment and testing methodologies.
+
+**Portfolio Highlights**
+* [RDC E2E Testing](https://github.com/Ofek-Katz/RDC-E2E-Testing/tree/main): End-to-end testing project featuring test planning, defect management, and data-driven quality analysis.
+
+**More projects in progress:**
+* Static manual testing, test automation.
+
+**Technical Stack**
+* Testing: Manual Test Planning, Defect Lifecycle, Requirements Analysis.
+
+* Automation: Python, Selenium.
+
+* Tools: Jira, Git, GitHub.
 <!--
 **Ofek-Katz/Ofek-Katz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
