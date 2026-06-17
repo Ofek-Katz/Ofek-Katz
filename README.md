@@ -7,12 +7,16 @@
 **More projects in progress:**
 * Static manual testing, test automation.
 
-**Technical Stack**
-* Testing: Manual Test Planning, Defect Lifecycle, Requirements Analysis.
 
-* Automation: Python, Selenium.
+** Technical Stack **
 
-* Tools: Jira, Git, GitHub.
+* **Testing:** Manual Test Planning, Defect Lifecycle, Requirements Analysis.
+* **Automation:** Python, Selenium.
+* **Data & Analytics:** Excel (Pivot Tables, Data Analysis), Insight Extraction from Raw Data & Reports.
+* **Version Control:** Git, GitHub.
+* **Technical Fundamentals:** Linux (CLI), VMware, Web Technologies (HTML/CSS/JS).
+* **Development Concepts:** Application of OOP principles in test automation.
+
 <!--
 **Ofek-Katz/Ofek-Katz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
