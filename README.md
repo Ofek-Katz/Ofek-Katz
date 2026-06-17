@@ -8,7 +8,7 @@
 * Static manual testing, test automation.
 
 
-** Technical Stack **
+**Technical Stack**
 
 * **Testing:** Manual Test Planning, Defect Lifecycle, Requirements Analysis.
 * **Automation:** Python, Selenium.
