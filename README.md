@@ -1,22 +1,18 @@
-## Ofek Katz | QA Portfolio
-### This repository documents my professional projects, focusing on software quality assessment and testing methodologies.
+**Ofek Katz | QA & Test Automation Engineer** (ISTQB Certified)
 
-**Portfolio Highlights**
-* [RDC E2E Testing](https://github.com/Ofek-Katz/RDC-E2E-Testing/tree/main): End-to-end testing project featuring test planning, defect management, and data-driven quality analysis.
+**Projects**
 
-**More projects in progress:**
-* Static manual testing, test automation.
-
+* **[RDC E2E Testing:](https://github.com/Ofek-Katz/RDC-E2E-Testing/tree/main)** Manual test planning, PRD analysis, and structured defect lifecycle management.
+* **Python Automation Framework:** Modular POM-based E-commerce test automation framework built from scratch with Pytest and Playwright (currently under active development/private repository).
 
 **Technical Stack**
 
-* **Testing:** Manual Test Planning, Defect Lifecycle, Requirements Analysis.
-* **Automation:** Python, Selenium.
-* **Data & Analytics:** Excel (Pivot Tables, Data Analysis), Insight Extraction from Raw Data & Reports.
-* **Version Control:** Git, GitHub.
-* **Technical Fundamentals:** Linux (CLI), VMware, Web Technologies (HTML/CSS/JS).
-* **Development Concepts:** Application of OOP principles in test automation.
+* **Testing & Automation:** ISTQB, Python, Pytest, Playwright, Selenium WebDriver, Git/GitHub
+* **Databases & APIs:** SQL, SSMS, REST API Testing (Postman)
+* **Web & Tools:** HTML5/CSS3/JS, Jira, Browser DevTools (F12)
+* **Platforms:** Windows, iOS, Android, Linux/Shell Basics
 
+[LinkedIn](https://www.linkedin.com/in/ofek-katz)
 <!--
 **Ofek-Katz/Ofek-Katz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
