@@ -4,7 +4,7 @@
 
 * **[JPetStore-Playwright-POM](https://github.com/Ofek-Katz/JPetStore-Playwright-POM)**: Modular POM-based E-commerce test automation framework built from scratch with Pytest and Playwright.
 * **[RDC E2E Testing](https://github.com/Ofek-Katz/RDC-E2E-Testing/tree/main)**: Manual test planning, PRD analysis, and structured defect lifecycle management.
-* **Static Testing & Design Project (Time-Banking System)**: Requirements analysis and structured test design including logic gap analysis and traceability matrix development *(Currently in progress/private repository)*.
+* **[Time Bank Test Design](https://github.com/Ofek-Katz/Time-Bank-Test-Design)**: Requirements analysis and structured test design including logic gap analysis and traceability matrix development.
 
 **Technical Stack**
 
